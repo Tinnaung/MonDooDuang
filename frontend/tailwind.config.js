@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        "example-color": "#ff0000"
+        "example-color": "#ff0000",
+        "white" : "#ffffff"
       },
       fontFamily: {
         "example-font": ["Inter var", "sans-serif"]
